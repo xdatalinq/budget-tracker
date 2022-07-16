@@ -1,3 +1,6 @@
+Live app (heroku): https://damp-hamlet-71190.herokuapp.com/
+Repo: https://github.com/xdatalinq/budget-tracker
+
 User Story
 
 AS AN avid traveler
