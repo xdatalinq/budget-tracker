@@ -1,16 +1,37 @@
-Live app (heroku): https://damp-hamlet-71190.herokuapp.com/
-Repo: https://github.com/xdatalinq/budget-tracker
+  # Budget Tracker
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  
+  ## Table of Contents
+  * [Description](#description)
+  * [Screenshot](#screenshot)
+  * [Live](#live)
+  * [Repository](#repository)
+  * [Contact](#contact)
+  * [License](#license)
 
-User Story
+  ## Description
+  Full-featured budget tracker app with offline functionality via service workers, installable as a progressive web application (PWA).<br>
+  Optimized using Google Lighthouse.
 
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
+    Built Using:
 
-Acceptance Criteria
+    JavaScript
+    Webpack
+    Lighthouse
 
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+  
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/89672040/215929010-6236fecc-2894-407d-b214-545648485dc4.png)
+  
+  ## Live
+  New Heroku deoployment link coming soon!
+  
+  ## Repository
+  Repo: https://github.com/xdatalinq/budget-tracker
+  
+  ## Contact
+  I can be reached here: [xdatalinq@gmail.com](xdatalinq@gmail.com)
+ <br></br>
+    
+  ## License
+  This project is licensed under [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
