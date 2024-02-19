@@ -24,7 +24,7 @@
   ![image](https://user-images.githubusercontent.com/89672040/215929010-6236fecc-2894-407d-b214-545648485dc4.png)
   
   ## Live
-  New Heroku deoployment link coming soon!
+  Live: https://stark-brook-49922-1990f4c3f367.herokuapp.com
   
   ## Repository
   Repo: https://github.com/xdatalinq/budget-tracker
